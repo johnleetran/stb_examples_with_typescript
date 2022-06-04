@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "server.js",
+    "dist"
+  ]
+}

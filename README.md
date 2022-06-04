@@ -29,3 +29,9 @@ chmod +x build-wasm.sh
 ```
 ./build-wasm.sh Debug
 ```
+
+# using typescript
+```
+cd sandbox-typescript
+sh build.sh
+```

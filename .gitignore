@@ -1,0 +1,7 @@
+build
+images
+*.png
+*.psd
+*.jpg
+*.jpeg
+*.debug.wasm
