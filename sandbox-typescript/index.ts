@@ -1,4 +1,4 @@
-import STBModule from './wasm/index';
+import STBModule from './wasm/stb.js';
 
 function isSTBup(){
     let btn = document.createElement("button");
